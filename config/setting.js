@@ -11,12 +11,12 @@ module.exports = {
     // reject call
     database_bot: "database.json",
     //👆 End .json when using JSON database or use Mongo URI
-    owner: ["6287752825741","6283861007177"],
+    owner: ["6287721177681","6287721177681"],
     // set owner number on here
     sessionName: "session",
     // for default name session 
     prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
-    pairingNumber: "6287752825741" // Example Input : 62xxx
+    pairingNumber: "6287721177681" // Example Input : 62xxx
    // jika mau menggunakan qr kosongin aja nomor di pairingNumber nya
   }
 }
