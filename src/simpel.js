@@ -135,7 +135,7 @@ exports.modulewa = async(fdz, msg, store) => {
       m.quoted.participant = m.quoted.key.participant
       m.quoted.sender = fdz.decodeJid(m.msg?.contextInfo?.participant)
 
-      m.quoted.isOwner = m.quoted.sender.includes(["6287752825741@s.whatsapp.net"]) || m.quoted.sender.includes([fdz.user.jid])
+      m.quoted.isOwner = m.quoted.sender.includes(["6287721177681@s.whatsapp.net"]) || m.quoted.sender.includes([fdz.user.jid])
 
       if (m.quoted.isGroup) {
         
